@@ -11,6 +11,13 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>Site Made...</title>
+    <url>/2020/12/22/SiteMade/</url>
+    <content><![CDATA[<p>I see you found the blog… Well, not really a blog yet..</p>
+<p>This is where I will be posting stuff eventually I guess, I could move over some blog posts from my old site but this will stay the way it is for now…</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Plans</title>
     <url>/2020/12/22/Plans-2020/</url>
     <content><![CDATA[<p>So I’m thinking of starting to populate this blog properly for once in conjunction with the FIU ICAVE blog…</p>
@@ -19,10 +26,12 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Site Made...</title>
-    <url>/2020/12/22/SiteMade/</url>
-    <content><![CDATA[<p>I see you found the blog… Well, not really a blog yet..</p>
-<p>This is where I will be posting stuff eventually I guess, I could move over some blog posts from my old site but this will stay the way it is for now…</p>
+    <title>Contact</title>
+    <url>/contact/index.html</url>
+    <content><![CDATA[<p><a href="mailto:edwardgz@gmail.com">edwardgz@gmail.com</a></p>
+<p>Discord: Ed94 #2508</p>
+<p>Twitter: <a href="https://twitter.com/Edg_94" target="_blank" rel="noopener">Edg_94</a></p>
+<p><a href="https://www.linkedin.com/in/edwardgonzalez94/" target="_blank" rel="noopener">Linkedin</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -36,12 +45,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Contact</title>
-    <url>/contact/index.html</url>
-    <content><![CDATA[<p><a href="mailto:edwardgz@gmail.com">edwardgz@gmail.com</a></p>
-<p>Discord: Ed94 #2508</p>
-<p>Twitter: <a href="https://twitter.com/Edg_94" target="_blank" rel="noopener">Edg_94</a></p>
-<p><a href="https://www.linkedin.com/in/edwardgonzalez94/" target="_blank" rel="noopener">Linkedin</a></p>
+    <title>Vulkan</title>
+    <url>/devrants/index.html</url>
+    <content><![CDATA[<p>This will have some shit on vulkan.</p>
 ]]></content>
   </entry>
   <entry>
@@ -167,12 +173,6 @@
 <p>(Private)</p>
 <p>Virtual Reality Interaction Mechanic for Unreal.</p>
 <p>(On Hiatus)</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Vulkan</title>
-    <url>/devrants/index.html</url>
-    <content><![CDATA[<p>This will have some shit on vulkan.</p>
 ]]></content>
   </entry>
 </search>

@@ -52,14 +52,15 @@
   <entry>
     <title>Projects</title>
     <url>/projects/index.html</url>
-    <content><![CDATA[<h1 id="Contract"><a href="#Contract" class="headerlink" title="Contract"></a><div align="center">Contract</h1><h2 id="Good-War-Games-Cattlepunk"><a href="#Good-War-Games-Cattlepunk" class="headerlink" title="Good War Games: Cattlepunk"></a>Good War Games: Cattlepunk</h2><p>*</p>
+    <content><![CDATA[<h1 id="Contract"><a href="#Contract" class="headerlink" title="Contract"></a><div align="center">Contract</h1><h2 id="Good-War-Games-Cattlepunk"><a href="#Good-War-Games-Cattlepunk" class="headerlink" title="Good War Games: Cattlepunk"></a>Good War Games: Cattlepunk</h2><p><em>March 2020 - Present</em></p>
+<p>(Private)</p>
 <h2 id="Unity-College-Virtual-Forest"><a href="#Unity-College-Virtual-Forest" class="headerlink" title="Unity College: Virtual Forest"></a>Unity College: Virtual Forest</h2><p><em>September 2020 - November 2020</em></p>
 <p>(Private)</p>
 <p>Tools Used: Unity (C#, Bakery, Magic Light Probe, Nature Renderer, Mesh Combine Studio)</p>
 <p>Unity College approached Metavoke to optimize and get consulting on their Virtual Forest expereince that had been developed by students. They had a working mvp that ran good enough on high end computers, but needed to run on a wide range of hardware (they wanted to start distributing the expereince to students for training). We provided documentation on the process and extended guides for the third-party tools we ended up using. Peformance was improved by more than 300%. Platform binaries were provided with an installer for ease of distribution (PC / Mac). </p>
 <p>The graphical fidelity was also improved:</p>
 <p>Before:<br><img src="https://i.imgur.com/F3w2pyZ.png" width="500"><br>After:<br><img src="https://i.imgur.com/WVWBDLR.jpg" width="500"><br><img src="https://i.imgur.com/tLHbmeR.jpg" width="500"></p>
-<h2 id="VR-Co-Location-Prototype"><a href="#VR-Co-Location-Prototype" class="headerlink" title="VR Co-Location Prototype"></a>VR Co-Location Prototype</h2><p><em>September 2019 - Present</em></p>
+<h2 id="VR-Co-Location-Prototype"><a href="#VR-Co-Location-Prototype" class="headerlink" title="VR Co-Location Prototype"></a>VR Co-Location Prototype</h2><p><em>September 2019 - March 2020</em></p>
 <p>(Private)</p>
 <p>Tools Used: Unreal (C++, Blueprints, VREP), Oculus Quest</p>
 <p>The contract is set out to research and develop a prototype project that sucessfully implements use of co-location in a large scale space. There was a need to see if the Oculus Quest had the required hardware accuracy at the desired scale of the space, and if it was viable to use current software tools such as Unreal and VREP without need to develop tools inhouse. </p>
@@ -164,7 +165,8 @@
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/whw6xvxWyLA" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 
-<h2 id="Multiplayer-Shootout"><a href="#Multiplayer-Shootout" class="headerlink" title="Multiplayer Shootout"></a><strong>Multiplayer Shootout</strong></h2><p><em>Janurary 2018 - April 2028</em></p>
+<p>##d <strong>Multiplayer Shootout</strong></p>
+<p><em>Janurary 2018 - April 2028</em></p>
 <p><a href="https://github.com/eds-archived-projects/VR_MultiPlayerShootout" target="_blank" rel="noopener">Github</a></p>
 <p>First project in Unreal Engine, used the multiplayer template provided via the unreal learn’s gameplay concepts section. We attempted to port the template to VR perserving the multiplayer functionality. Unfortunately due to constraints we ended up instead making a shooting gallery with the assets during the demo presentation.</p>
 <style>.embed-container {
@@ -204,10 +206,12 @@
 
 <p>Currently working on the Python version of the Win32-Console Engine.</p>
 <p>(Passively worked on)</p>
-<h2 id="Phantom"><a href="#Phantom" class="headerlink" title="Phantom"></a>Phantom</h2><p><em>January 2018 - September 2019</em></p>
-<p>(Private)</p>
-<p>Virtual Reality Interaction Mechanic for Unreal.<br>V<br><img src="https://i.imgur.com/wnfFTBw.gif" width= "500"><br><img src="https://media.discordapp.net/attachments/408803715508731915/618904294141460510/1LAEBqVapG.gif" width= "500"><br><img src="https://i.imgur.com/7s95OVo.gif" width= "500"></p>
-<p>(On Hiatus)</p>
+<h2 id="Phantom"><a href="#Phantom" class="headerlink" title="Phantom"></a>Phantom</h2><p><em>January 2018 - September 2019</em> </p>
+<p>(Private, On Hiatus)</p>
+<p>Virtual Reality Interaction Mechanic for Unreal.</p>
+<img src="https://i.imgur.com/wnfFTBw.gif" width= "500">
+<img src="https://media.discordapp.net/attachments/408803715508731915/618904294141460510/1LAEBqVapG.gif" width= "500">
+<img src="https://i.imgur.com/7s95OVo.gif" width= "500">
 ]]></content>
   </entry>
 </search>

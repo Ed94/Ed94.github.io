@@ -64,13 +64,12 @@
 <p>Tools Used: Unreal (C++, Blueprints, VREP), Oculus Quest</p>
 <p>The contract is set out to research and develop a prototype project that sucessfully implements use of co-location in a large scale space. There was a need to see if the Oculus Quest had the required hardware accuracy at the desired scale of the space, and if it was viable to use current software tools such as Unreal and VREP without need to develop tools inhouse. </p>
 <p>We fully scoped and drafted the tasks for the R &amp; D based on what our client wanted and provided the staging with updates through trello and microsoft teams.</p>
-<p>1 meter cube test: </p>
 <img src="https://media.discordapp.net/attachments/624669455951200269/685368100253597720/unknown.png" width="600">
 <img src="https://media.discordapp.net/attachments/658051076896981032/658170481861591052/20191221_155043.jpg" width="250">
 <img src="https://i.imgur.com/I6I0uv7.gif" width="500">
 [MP4 with Sound](https://files.catbox.moe/7fls1u.mp4)
 
-<h1 id="Florida-International-University"><a href="#Florida-International-University" class="headerlink" title=" Florida International University"></a><div align="center"> Florida International University</h1><h2 id="ICAVE"><a href="#ICAVE" class="headerlink" title="ICAVE"></a><strong>ICAVE</strong></h2><h3 id="Fire360-V2"><a href="#Fire360-V2" class="headerlink" title="Fire360 (V2)"></a><strong>Fire360 (V2)</strong></h3><p><em>May 2018 - Present</em></p>
+<h1 id="Florida-International-University"><a href="#Florida-International-University" class="headerlink" title=" Florida International University"></a><div align="center"> Florida International University</h1><h2 id="ICAVE"><a href="#ICAVE" class="headerlink" title="ICAVE"></a><strong>ICAVE</strong></h2><h2 id="Fire360-V2"><a href="#Fire360-V2" class="headerlink" title="Fire360 (V2)"></a><strong>Fire360 (V2)</strong></h2><p><em>May 2018 - Present</em></p>
 <p>(Private)</p>
 <p>This is a incident command simulated developed by the ICAVE lab at FIU for the Department of Emergency Management (FIU). It allows a “hands off” immersive expereince using the ICAVE itself, while also using the head-node’s monitor array to engage up to 8 Firefighters in the experience. An instructor controls the simulation using an iPad communicating via a rest server to the Fire360 instance running on the ICAVE head node. </p>
 <p>Unlike other firefighters simulators you see online, this was built from the ground up based on immediate feedback from departments chiefs in south florida and those instructing firefighter training at FIU. This lead to a less of a hands on expereince and it becoming more directed toward praticing proper protcol on one the scenes developed.</p>
@@ -81,7 +80,7 @@
 <img src="https://i.imgur.com/Z40US7M.jpg" width="500">
 <img src="https://i.imgur.com/wj87QcB.png" width="500">
 
-<h3 id="First-Year-Expereince"><a href="#First-Year-Expereince" class="headerlink" title="First Year Expereince"></a><strong>First Year Expereince</strong></h3><p><em>February 2020 - November 2020</em></p>
+<h2 id="First-Year-Expereince"><a href="#First-Year-Expereince" class="headerlink" title="First Year Expereince"></a><strong>First Year Expereince</strong></h2><p><em>February 2020 - November 2020</em></p>
 <p>(Private)</p>
 <p>The ACS (Academic and Student Success) Department at FIU approached the ICAVE with the task of using HP provided hardware to produce a VR experience for the FYE (First Year Expereince) course. They wanted something done with multiplayer support for student collaboration in real-time in a virtual space.</p>
 <p>We provided an implementation made in Unreal 4.23, that supported both lan and using the steam multiplayer for remote sessions. Since this was a prototype the implementation was essentially entirely in Blueprints using the advanced sessions plugin and virtual reality expansion plugin (VREP).</p>
@@ -137,17 +136,35 @@
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/jzpQ1wf-b7w" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 
-<h2 id="Classes"><a href="#Classes" class="headerlink" title="Classes"></a>Classes</h2><h3 id="DuctTapedGL"><a href="#DuctTapedGL" class="headerlink" title="DuctTapedGL"></a><strong>DuctTapedGL</strong></h3><p><em>CAP4710 - Principles of Computer Graphics</em> - Spring 2020</p>
+<h2 id="Classes"><a href="#Classes" class="headerlink" title="Classes"></a>Classes</h2><h2 id="DuctTapedGL"><a href="#DuctTapedGL" class="headerlink" title="DuctTapedGL"></a><strong>DuctTapedGL</strong></h2><p><em>CAP4710 - Principles of Computer Graphics</em> - Spring 2020</p>
 <p><a href="https://github.com/Ed94/DuctTaped_GL" target="_blank" rel="noopener">Github</a></p>
 <p>This is a wrapping library I made for OpenGL, GLFW, and GLM for the purpose of learning and completeing my first and second assingment for my CG course at FIU. Its a low level wrap that avoids uses of class structures unless necesary and mostly acts as a giant rename with extra functionality for loading models and handling a set of rudimentary enitites. </p>
 <p>At first I did it in my non-standard C++ using my cpp alias and later translated and continued to work on it in standard c++ 17. I also made a nice little action queue for inputs to learn some advanced template for generating and handling delegates of arbitrary functions.</p>
-<img src="https://github.com/Ed94/Ducktaped_GL/raw/master/_rm/2020-02-21_16-09-44.gif" width="500">
+<img src="https://github.com/Ed94/Ducktaped_GL/raw/master/_rm/2020-02-21_16-09-44.gif" width="400">
 
-<h2 id="Spark-Dev"><a href="#Spark-Dev" class="headerlink" title="Spark Dev"></a>Spark Dev</h2><h3 id="Infinite-Whiteboard"><a href="#Infinite-Whiteboard" class="headerlink" title="Infinite Whiteboard"></a><strong>Infinite Whiteboard</strong></h3><p><em>September 2017 - December 2017</em></p>
+<h2 id="Spark-Dev"><a href="#Spark-Dev" class="headerlink" title="Spark Dev"></a>Spark Dev</h2><h2 id="Infinite-Whiteboard"><a href="#Infinite-Whiteboard" class="headerlink" title="Infinite Whiteboard"></a><strong>Infinite Whiteboard</strong></h2><p><em>September 2017 - December 2017</em></p>
 <p><a href="https://github.com/eds-archived-projects/InfiniteWBVR" target="_blank" rel="noopener">Github</a></p>
 <p>The pilot semester for spark dev, a program at FIU that allows students to work on a team without the risk of failure impacting their performance during their degree. The VR division decided to complete a multiplayer concept of collaboration space that had scalable whiteboards.\</p>
 <p>The project was done in Unity in 9 weeks. It was my first major project using a fully-featured game engine, before this I had only used game frameworks like Monogame for C# and SDL 2.0 for C++. We were able to get all the functionality we wanted minus the multiplayer unfortunately.</p>
-<h3 id="Multiplayer-Shootout"><a href="#Multiplayer-Shootout" class="headerlink" title="Multiplayer Shootout"></a><strong>Multiplayer Shootout</strong></h3><p><em>Janurary 2018 - April 2028</em></p>
+<style>.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/whw6xvxWyLA" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+
+<h2 id="Multiplayer-Shootout"><a href="#Multiplayer-Shootout" class="headerlink" title="Multiplayer Shootout"></a><strong>Multiplayer Shootout</strong></h2><p><em>Janurary 2018 - April 2028</em></p>
 <p><a href="https://github.com/eds-archived-projects/VR_MultiPlayerShootout" target="_blank" rel="noopener">Github</a></p>
 <p>First project in Unreal Engine, used the multiplayer template provided via the unreal learn’s gameplay concepts section. We attempted to port the template to VR perserving the multiplayer functionality. Unfortunately due to constraints we ended up instead making a shooting gallery with the assets during the demo presentation.</p>
 <style>.embed-container {
@@ -182,15 +199,14 @@
 <h2 id="Trial-By-Fire"><a href="#Trial-By-Fire" class="headerlink" title="Trial By Fire"></a>Trial By Fire</h2><p><em>October 2018 - Present</em></p>
 <p><a href="https://github.com/Trial-By-Fire" target="_blank" rel="noopener">Github</a></p>
 <p>A conglomeration of projects attempt to do techncial learning using a different approach to traditional means.</p>
-<p>C Win32-Console Engine project has a completed version. (Although it needs some cleanup).</p>
-<p>Currently working on the C++ version of the Win32-Console Engine.</p>
+<p>C and C++ ports of the project are completed.</p>
+<img src="https://i.imgur.com/u3Jb0fx.gif" width= "500">
+
+<p>Currently working on the Python version of the Win32-Console Engine.</p>
 <p>(Passively worked on)</p>
 <h2 id="Phantom"><a href="#Phantom" class="headerlink" title="Phantom"></a>Phantom</h2><p><em>January 2018 - September 2019</em></p>
 <p>(Private)</p>
-<p>Virtual Reality Interaction Mechanic for Unreal.</p>
-<img src="https://media.discordapp.net/attachments/408803715508731915/618904294141460510/1LAEBqVapG.gif" width= "500">
-<img src="https://i.imgur.com/7s95OVo.gif" width= "500">
-
+<p>Virtual Reality Interaction Mechanic for Unreal.<br>V<br><img src="https://i.imgur.com/wnfFTBw.gif" width= "500"><br><img src="https://media.discordapp.net/attachments/408803715508731915/618904294141460510/1LAEBqVapG.gif" width= "500"><br><img src="https://i.imgur.com/7s95OVo.gif" width= "500"></p>
 <p>(On Hiatus)</p>
 ]]></content>
   </entry>

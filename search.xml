@@ -120,7 +120,7 @@
 <p><a href="https://github.com/Ed94/DuctTaped_GL" target="_blank" rel="noopener">Github</a></p>
 <p>This is a wrapping library I made for OpenGL, GLFW, and GLM for the purpose of learning and completeing my first and second assingment for my CG course at FIU. Its a low level wrap that avoids uses of class structures unless necesary and mostly acts as a giant rename with extra functionality for loading models and handling a set of rudimentary enitites. </p>
 <p>At first I did it in my non-standard C++ using my cpp alias and later translated and continued to work on it in standard c++ 17. I also made a nice little action queue for inputs to learn some advanced template for generating and handling delegates of arbitrary functions.</p>
-<img src="https://i.imgur.com/v3rBHOW.gif" width="500">
+<img src="https://github.com/Ed94/Ducktaped_GL/raw/master/_rm/2020-02-21_16-09-44.gif" width="500">
 
 <h2 id="Spark-Dev"><a href="#Spark-Dev" class="headerlink" title="Spark Dev"></a>Spark Dev</h2><h3 id="Infinite-Whiteboard"><a href="#Infinite-Whiteboard" class="headerlink" title="Infinite Whiteboard"></a><strong>Infinite Whiteboard</strong></h3><p><em>September 2017 - December 2017</em></p>
 <p><a href="https://github.com/eds-archived-projects/InfiniteWBVR" target="_blank" rel="noopener">Github</a></p>
@@ -164,14 +164,12 @@
 <p>C Win32-Console Engine project has a completed version. (Although it needs some cleanup).</p>
 <p>Currently working on the C++ version of the Win32-Console Engine.</p>
 <p>(Passively worked on)</p>
-<h2 id="NE-Project"><a href="#NE-Project" class="headerlink" title="NE Project"></a>NE Project</h2><p><em>August 2018 - March 2020 (Hiatus)</em></p>
-<p>(Private) - Utilities Library: <a href="https://github.com/Ed94/NE_Utilities" target="_blank" rel="noopener">Github</a></p>
-<p>STEM Workspace, my C++ playground. Written in non-standard conventions I made with my cpp aliased library to help me learn the language at a faster pace. </p>
-<p>Aims for MVP are to be a real-time math object manipulation engine and workspace.</p>
-<p>I have the utilities library publicly on <a href="https://github.com/Ed94/NE_Utilities" target="_blank" rel="noopener">github</a>.</p>
 <h2 id="Phantom"><a href="#Phantom" class="headerlink" title="Phantom"></a>Phantom</h2><p><em>January 2018 - September 2019</em></p>
 <p>(Private)</p>
 <p>Virtual Reality Interaction Mechanic for Unreal.</p>
+<img src="https://media.discordapp.net/attachments/408803715508731915/618904294141460510/1LAEBqVapG.gif" width= "500">
+<img src="https://cdn.discordapp.com/attachments/408803715508731915/616738407250395156/2019-08-29_16-57-30.mp4" width= "500">
+
 <p>(On Hiatus)</p>
 ]]></content>
   </entry>
